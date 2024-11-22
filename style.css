@@ -1,0 +1,32 @@
+* {
+
+}
+
+/*style for body*/
+
+h1{
+	font-family: Snell Roundhand;
+}
+
+body {
+	background-color: #0D1282;
+}
+
+/*style for container*/
+.container{
+	background-color: #D71313;
+	color: white;
+
+}
+
+/*style for img*/
+img{
+	width: 130px;
+}
+
+.footer{
+	background-color:#EEEDED;
+	border: 10px solid #D71313;
+	padding: 20px;
+	text-align:center;
+}
